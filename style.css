@@ -1,0 +1,15 @@
+ body {
+
+    background: url(xd.gif) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.prank{
+    text-align: center;
+    max-width: 100%;
+    text-shadow: 3px 2px red;
+    font-size: 80px;
+
+}
